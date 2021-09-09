@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nofalthaer
+- 👋 Hi, I’m @nofalThaer
 - 👀 I’m interested in ML/DL
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on AI related projects
