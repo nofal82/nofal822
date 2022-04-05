@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nofalThaer
-- 👀 I’m interested in ML/DL
-- 🌱 I’m currently learning DL
-- 💞️ I’m looking to collaborate on AI related projects
+- 👀 I’m interested in Data
+- 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me @nofal82
 
 <!---
